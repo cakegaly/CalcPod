@@ -1,0 +1,6 @@
+framework module Pods_CalcPod {
+  umbrella header "Pods-CalcPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
